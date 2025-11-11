@@ -1,4 +1,4 @@
-#include <windows.h>
+#include <Windows.h>
 #include "../include/MinHook.h"
 #include "nt_structs.h"
 #pragma comment(lib, "libMinHook.x64.lib")
